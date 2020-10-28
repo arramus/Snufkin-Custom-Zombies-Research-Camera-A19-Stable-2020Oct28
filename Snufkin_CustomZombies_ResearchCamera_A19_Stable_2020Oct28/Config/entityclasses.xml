@@ -184,7 +184,7 @@
 			<property name="MoveSpeedAggro" value="2, 2"/>
 			<property name="MaxTurnSpeed" value="150"/>
 			<property name="ExperienceGain" value="2000"/>
-			<property name="HandItem" value="meleeHandGeits"/>
+			<property name="HandItem" value="meleeHandGeist"/>
 			<property name="AITask-1" value=""/>
 			<property name="AITarget-1" value=""/>
 			<property name="SightRange" value="300"/>
